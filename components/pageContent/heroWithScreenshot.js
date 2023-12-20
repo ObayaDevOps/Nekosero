@@ -36,7 +36,7 @@ export default function App(){
           color="gray.900"
           _dark={{ color: "gray.100" }}
         >
-          Optimized Websites for {" "}
+          {" "}
           <Text
             display={{ base: "block", lg: "inline" }}
             w="full"
@@ -44,7 +44,7 @@ export default function App(){
             bgGradient="linear(to-r, green.400,purple.500)"
             fontWeight="extrabold"
           >
-            Maximizing Business Potential
+            Nekosero
           </Text>{" "}
            
         </chakra.h1>

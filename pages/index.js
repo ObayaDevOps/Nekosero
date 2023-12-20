@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <div >
       <Head>
-        <title>Home | Yujo Izakaya</title>
-        <meta name="description" content="Yujo Izakaya Webpage" />
+        <title>Home | Nekosero</title>
+        <meta name="description" content="Nekosero Webpage" />
         {/* <link rel="shortcut icon" href="../public/favicon.ico"></link> */}
         <link rel="shortcut icon" href="../../../images/icon/DWOLogo.png"></link>
       </Head>
